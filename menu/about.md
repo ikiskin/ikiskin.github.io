@@ -3,7 +3,7 @@ layout: page
 title: About Ivan
 permalink: /about
 ---
-<img src="/assets/imag/Ivan_Kiskin_Mar2022_P1055544.JPG" alt="Ivan Kisking at the University of Surrey"  width="400" 
+<img src="/assets/img/Ivan_Kiskin_Mar2022_P1055544.JPG" alt="Ivan Kiskin at the University of Surrey"  width="400" 
      height="225">
 
 
