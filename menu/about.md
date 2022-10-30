@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About Ivan
-image: Ivan_Kiskin_Mar2022_P1055544.JPG
 permalink: /about
 ---
+<img src="/assets/imag/Ivan_Kiskin_Mar2022_P1055544.JPG" alt="Ivan Kisking at the University of Surrey"  width="400" 
+     height="225">
 
 
 I joined as a lecturer in AI for Multimodal Health Monitoring at the Surrey Institute for People-Centred Artificial Intelligence in January 2022. I obtained my PhD in acoustic machine learning with the Machine Learning Research Group of the University of Oxford, as part of the Autonomous Intelligent Machines and Systems CDT. I obtained a first-class honours MEng degree at the University of Oxford in 2015.
