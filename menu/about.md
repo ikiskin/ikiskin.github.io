@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About bingbing
 permalink: /about
 ---
 
