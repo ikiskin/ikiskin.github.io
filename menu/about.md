@@ -3,11 +3,24 @@ layout: page
 title: About bingbing
 permalink: /about
 ---
-Ivan Kiskin is a person
-### Getting Started
+I joined as a lecturer in AI for Multimodal Health Monitoring at the Surrey Institute for People-Centred Artificial Intelligence in January 2022. I obtained my PhD in acoustic machine learning with the Machine Learning Research Group of the University of Oxford, as part of the Autonomous Intelligent Machines and Systems CDT. I obtained a first-class honours MEng degree at the University of Oxford in 2015.
+### Research Highlights
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+My interests include Bayesian deep learning, acoustical and multimodal signal processing.
 
-### Questions?
+I am currently working on a feasibility study of COVID classification from acoustic data in collaboration with UKHSA and the Alan Turing Institute. A publication highlight includes an overview discussing the limitations of current studies: COVID-19 detection from audio: seven grains of salt [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00141-2/fulltext). Further large-scale studies are currently under review.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+As part of the HumBug project, I have been leading the development of machine learning acoustic monitoring solutions for mosquito recognition for the purpose of data-driven approaches to malaria prevention. From this collaboration, my most notable achievements are:
+
+* DCASE 2022 Task 5: Few-shot Bioacoustic Event Detection co-organiser [website](https://dcase.community/challenge2022/task-few-shot-bioacoustic-event-detection) [paper](https://arxiv.org/abs/2207.07911)
+* ACM 2022 Computational Paralinguistics Challenge (ComParE) co-organiser: Mosquito Event Detection [website](http://www.compare.openaudio.eu/2022-2/) [paper](https://arxiv.org/abs/2205.06799) [code](https://github.com/EIHW/ComParE2022/tree/MOS-C)
+* Best paper award at NeurIPS 2019 Machine Learning for the Developing World Workshop [paper](https://arxiv.org/abs/2001.04733)
+* NeurIPS 2021 dataset and benchmark paper [paper](https://arxiv.org/abs/2110.07607) [reviews](https://openreview.net/forum?id=vhjsBtq9OxO)
+* Leading a collaboration with the MIDS programme at UC Berkeley, resulting in state-of-the-art performance [website](https://groups.ischool.berkeley.edu/Project-VecNet/)
+
+
+
+
+#### Acknowledgement
+
+This website was adapted from the open-source [Lagrange Jekyll template](https://github.com/LeNPaul/Lagrange).
