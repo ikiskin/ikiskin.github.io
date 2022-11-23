@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'CV', https://github.com/ikiskin/ikiskin.github.io/blob/gh-pages/assets/files/CVIvan_Kiskin_10-2022.pdf: 
+- {name: 'CV', url: 'https://github.com/ikiskin/ikiskin.github.io/blob/gh-pages/assets/files/CVIvan_Kiskin_10-2022.pdf': 
 - {name: 'Academic Work', url: 'academicwork.html'}
 - {name: 'Contact', url: 'contact.html'}
 
