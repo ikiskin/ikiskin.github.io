@@ -1,4 +1,0 @@
----
-layout: pdf
-permalink: /CV
----
